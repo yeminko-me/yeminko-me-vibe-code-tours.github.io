@@ -1,7 +1,7 @@
 ---
-name: YE MIN KO
+name: YE MIN
 github: yeminko-me
-skills: ["Java", "C#","SQL","JAVASCRIPT"]
+skills: ["Java","SQL"]
 ---
 はじめまして、これからよろしくお願いします！
 
